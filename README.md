@@ -1,6 +1,6 @@
 # Real-Time Data Sync Web App
 
-![Real-Time Sync](https://via.placeholder.com/1200x400.png?text=Real-Time+Data+Sync)
+
 
 ## 📌 Overview
 The **Real-Time Data Sync Web App** allows users to input job details, sync data dynamically, and store them using local storage. This lightweight web-based tool provides an intuitive interface with seamless data synchronization.
