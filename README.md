@@ -39,6 +39,5 @@ Contributions are welcome! Feel free to fork this repository, raise issues, or s
 
 
 
----
-Made with ❤️ by **Oindrila Paul**
+
 
