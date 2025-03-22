@@ -29,13 +29,6 @@ To deploy this project on AWS S3:
 4. Modify the **Bucket Policy** to allow public access.
 5. Access your hosted website via the S3 bucket URL.
 
-## 🏗️ Future Enhancements
-🔹 Integration with a backend database  
-🔹 Multi-user authentication  
-🔹 Live cloud synchronization with AWS Lambda & DynamoDB  
-
-## 🤝 Contributing
-Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests.
 
 Name: Oindrila Paul
 Year: 3rd
