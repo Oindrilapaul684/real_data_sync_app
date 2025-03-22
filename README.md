@@ -37,7 +37,8 @@ To deploy this project on AWS S3:
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests.
 
-
-
-
+Name: Oindrila Paul
+Year: 3rd
+Department: CSE AIML
+Roll no: 19
 
